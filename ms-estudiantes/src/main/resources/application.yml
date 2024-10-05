@@ -1,6 +1,6 @@
 server:
   port: 8021
-  
+
 spring:
   application:
     name: ms-estudiantes-service
